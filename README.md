@@ -31,6 +31,8 @@ This project provides a modern login, signup, and password reset UI integrated w
 |   |-- login.css
 |   |-- login.js
 |-- .env
+|-- .gitignore
+|-- .env.example
 |-- app.py
 |-- requirements.txt
 |-- README.md
